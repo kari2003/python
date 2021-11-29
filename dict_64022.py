@@ -17,4 +17,4 @@ d['marks']==75
 ##print(d)
 
 
-print(d)
+##print(d)
